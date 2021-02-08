@@ -1,0 +1,18 @@
+html {
+    font-size: 100%;
+    font-family: 'Courier New';
+    display: table;
+    margin: auto;
+}
+
+/* Centering site CSS from user MildWolfie https://stackoverflow.com/a/14776179 */
+body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+a {
+    color: #8FBC8F;;
+}
+
+
